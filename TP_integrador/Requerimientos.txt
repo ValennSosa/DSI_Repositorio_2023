@@ -1,0 +1,14 @@
+REQUERIMIENTOS FUNCIONALES:
+ * Comunicación con Otros Departamentos: Establecer canales de comunicación efectivos con otros departamentos, como producción y ventas, 
+  para garantizar que los productos cumplan con los estándares de calidad.
+ * El sistema debe permitir especificar la calidad de la materia prima.
+ * El sistema debe permitir llevar a cabo un muestreo y pruebas de calidad: Establecer un plan de muestreo para inspeccionar las 
+   empanadas durante y después del proceso de producción. Esto podría incluir pruebas microbiológicas y de calidad sensorial (sabor y textura).
+ * Seguimiento Pérdidas: Establecer un sistema para identificar, registrar y notificar las pérdidas encontradas durante la inspección de empanadas al área de contabilidad.
+ * Documentación y Registro: Mantener registros detallados de todas las inspecciones de calidad, incluyendo fechas, resultados y acciones tomadas.
+
+REQUERIMIENTOS NO FUNCIONALES:
+ * Usabilidad y Documentación: Facilitar el uso de sistemas y procedimientos de control de calidad, y proporcionar documentación clara para el personal.
+ * Disponibilidad Continua: Mantener los equipos de control de calidad operativos durante el horario de producción para evitar interrupciones en la línea de producción.
+ * Rendimiento Eficiente: Asegurar que las pruebas de calidad se realicen en tiempos establecidos para no retrasar la producción y mantener la eficiencia.
+ * Compatibilidad con Sistemas: Asegurarse de que los sistemas de control de calidad sean compatibles con otros sistemas utilizados en la empresa, como sistemas de gestión de inventario o de producción.
